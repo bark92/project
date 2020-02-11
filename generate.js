@@ -129,7 +129,7 @@ j++;
 }
 if (a_to_vh == false) {
 var encryptedUrl = Base64.encode(a_to_vi);
-a_to_ve[i].href = "https://smpn4asembagussatuatap.sch.id/file.html?url=" + encryptedUrl;
+a_to_ve[i].href = "https://e-baca.com/generate-link/?url=" + encryptedUrl;
 a_to_ve[i].rel = "nofollow";
 a_to_vb++;
 a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
